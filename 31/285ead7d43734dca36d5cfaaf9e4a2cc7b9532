@@ -1,0 +1,29 @@
+.gitignore
+  s_8a0dbe76ebbf32::t_f9fee65346ce9e 1-3
+README.md
+  s_8a0dbe76ebbf32::t_5ede0160b33929 1-60
+answers.json
+  s_8a0dbe76ebbf32::t_dcd881b6057ac1 1-7
+css/styles.css
+  s_8a0dbe76ebbf32::t_b8c23722ae2952 1-337
+index.html
+  s_8a0dbe76ebbf32::t_239e3c12848410 1-161
+js/app.js
+  s_8a0dbe76ebbf32::t_60f15414af8667 1-376
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "31285ead7d43734dca36d5cfaaf9e4a2cc7b9532",
+  "prompts": {},
+  "sessions": {
+    "s_8a0dbe76ebbf32": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "47c4d410-8245-4938-b155-85aace2e1f1a",
+        "model": "unknown"
+      },
+      "human_author": "breck <breckc@knowbe4.com>"
+    }
+  }
+}
