@@ -1,0 +1,7 @@
+{
+  "answers": {
+    "easy": ["cat", "dog", "sun", "hat", "cup", "map", "box", "pen", "fox", "bee", "owl", "jar"],
+    "medium": ["planet", "garden", "bridge", "candle", "forest", "rocket", "silver", "pickle", "castle", "button", "jungle", "anchor"],
+    "hard": ["adventure", "chocolate", "butterfly", "crocodile", "telescope", "pineapple", "wonderful", "lightning", "fireworks", "sculpture", "porcupine", "kangaroos"]
+  }
+}
